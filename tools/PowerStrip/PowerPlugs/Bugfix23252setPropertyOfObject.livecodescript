@@ -1,4 +1,4 @@
-script "setPropertyOfObject.livecodescript"
+script "Bugfix23252"
 
 /*
 * fix for bugzilla #23252
